@@ -1,0 +1,14 @@
+{
+  "name": "@sphoon/prettier-config",
+  "version": "1.0.1",
+  "description": "My personal Prettier config",
+  "main": "main.json",
+  "repository": "git+https://github.com/sphoon/prettier-config.git",
+  "author": "sphoon",
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
