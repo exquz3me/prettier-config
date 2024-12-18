@@ -1,6 +1,6 @@
 {
   "name": "@sphoon/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My personal Prettier config",
   "main": "main.json",
   "repository": "git+https://github.com/exquz3me/prettier-config.git",
