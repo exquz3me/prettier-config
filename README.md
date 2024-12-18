@@ -27,7 +27,7 @@ Just a simple [Prettier](https://prettier.io/) configuration for personal use.
 
 This package was made as a testament to having read the Prettier documentation. Most of the values were kept at their default values, except for some opinionated choices.
 
-```json
+```jsonc
 // prettierrc.json
 {
   "$schema": "http://json.schemastore.org/prettierrc",
@@ -49,7 +49,7 @@ This package was made as a testament to having read the Prettier documentation. 
 npm install --save-dev @sphoon/prettier-config
 ```
 
-```json
+```jsonc
 // package.json
 {
   "name": "your-project",

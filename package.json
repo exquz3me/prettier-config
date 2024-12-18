@@ -1,9 +1,10 @@
 {
   "name": "@sphoon/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My personal Prettier config",
   "main": "main.json",
   "repository": "git+https://github.com/exquz3me/prettier-config.git",
+  "homepage": "https://github.com/exquz3me/prettier-config/",
   "author": "sphoon",
   "peerDependencies": {
     "prettier": ">=3.0.0"
