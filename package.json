@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "My personal Prettier config",
   "main": "main.json",
-  "repository": "git+https://github.com/sphoon/prettier-config.git",
+  "repository": "git+https://github.com/exquz3me/prettier-config.git",
   "author": "sphoon",
   "peerDependencies": {
     "prettier": ">=3.0.0"

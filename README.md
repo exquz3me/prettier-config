@@ -20,8 +20,6 @@
 
 <!-- ############################################# -->
 <!-- Main Area -->
-<div align="center" style="display: flex; justify-content: center;">
-    <div style="text-align: left; max-width: 650px;">
 
 ## Description
 
@@ -61,9 +59,6 @@ npm install --save-dev @sphoon/prettier-config
 ```
 
 For more information see the [Prettier documentation](https://prettier.io/docs/en/sharing-configurations)
-
-  </div>
-</div>
 
 <!-- ############################################# -->
 <!-- References -->
