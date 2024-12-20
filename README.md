@@ -33,7 +33,8 @@ This package was made as a testament to having read the Prettier documentation. 
   "$schema": "http://json.schemastore.org/prettierrc",
   "singleQuote": true,
   "bracketSameLine": true,
-  "arrowParens": "avoid"
+  "arrowParens": "avoid",
+  "editorconfig": true,
 }
 ```
 

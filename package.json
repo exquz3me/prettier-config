@@ -1,6 +1,6 @@
 {
   "name": "@sphoon/prettier-config",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "My personal prettier config",
   "keywords": [
     "prettier",
@@ -20,5 +20,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "type": "module"
 }
