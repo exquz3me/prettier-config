@@ -1,11 +1,20 @@
 {
   "name": "@sphoon/prettier-config",
   "version": "1.0.3",
-  "description": "My personal Prettier config",
-  "main": "main.json",
-  "repository": "git+https://github.com/exquz3me/prettier-config.git",
+  "description": "My personal prettier config",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
   "homepage": "https://github.com/exquz3me/prettier-config/",
+  "bugs": "https://github.com/exquz3me/prettier-config/",
+  "license": "MIT",
   "author": "sphoon",
+  "exports": "./index.js",
+  "repository": "github:exquz3me:prettier-config",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  },
   "peerDependencies": {
     "prettier": ">=3.0.0"
   },

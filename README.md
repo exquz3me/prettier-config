@@ -11,12 +11,12 @@
 <!-- ############################################# -->
 <!-- Header -->
 
-#
-
 <h1 align="center">
     <img height=150 src="./media/art-header.svg" alt="header-art">
     <img src="./media/header.svg" alt="header">
-</h1
+</h1>
+
+![package-json]
 
 <!-- ############################################# -->
 <!-- Main Area -->
@@ -25,10 +25,10 @@
 
 Just a simple [Prettier](https://prettier.io/) configuration for personal use.
 
-This package was made as a testament to having read the Prettier documentation. Most of the values were kept at their default values, except for some opinionated choices.
+This package was made as a testament to having read the Prettier documentation. Most of the properties were kept at their default values, except for some opinionated choices.
 
 ```jsonc
-// prettierrc.json
+// .prettierrc
 {
   "$schema": "http://json.schemastore.org/prettierrc",
   "singleQuote": true,
@@ -54,7 +54,7 @@ npm install --save-dev @sphoon/prettier-config
 {
   "name": "your-project",
   "version": "1.33.7",
-  "prettier": "@sphoon/prettier-config"
+  "prettier": "@sphoon/prettier-config" // Add this line
 }
 ```
 
@@ -62,3 +62,4 @@ For more information see the [Prettier documentation](https://prettier.io/docs/e
 
 <!-- ############################################# -->
 <!-- References -->
+[package-json]: https://img.shields.io/github/package-json/v/exquz3me/prettier-config

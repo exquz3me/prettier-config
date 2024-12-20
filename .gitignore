@@ -1,0 +1,4 @@
+# npm
+node_modules/
+package-lock.json
+# run "npm shrinkwrap" instead of using package-lock.json
