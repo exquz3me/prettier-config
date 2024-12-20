@@ -11,7 +11,7 @@
   "license": "MIT",
   "author": "sphoon",
   "exports": "./index.js",
-  "repository": "github:exquz3me:prettier-config",
+  "repository": "github:exquz3me/prettier-config",
   "devDependencies": {
     "prettier": "^3.4.2"
   },
