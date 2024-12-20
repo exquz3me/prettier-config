@@ -1,6 +1,6 @@
 {
   "name": "@sphoon/prettier-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "My personal prettier config",
   "keywords": [
     "prettier",
@@ -10,6 +10,7 @@
   "bugs": "https://github.com/exquz3me/prettier-config/",
   "license": "MIT",
   "author": "sphoon",
+  "type": "module",
   "exports": "./index.js",
   "repository": "github:exquz3me/prettier-config",
   "devDependencies": {
