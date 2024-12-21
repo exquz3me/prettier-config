@@ -27,7 +27,6 @@ Just a simple [Prettier](https://prettier.io/) configuration for personal use, w
 
 All properties use their [default values](https://prettier.io/docs/en/options) as of prettier@3.4.2, except for the `arrowParens` property.
 
-
 ```javascript
 // index.js
 /** @type {import("prettier").Config} */
