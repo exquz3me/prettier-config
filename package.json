@@ -1,6 +1,6 @@
 {
   "name": "@sphoon/prettier-config",
-  "version": "1.1.1",
+  "version": "1.1.0",
   "description": "My personal prettier config",
   "keywords": [
     "prettier",
@@ -10,8 +10,7 @@
   "bugs": "https://github.com/exquz3me/prettier-config/",
   "license": "MIT",
   "author": "sphoon",
-  "type": "module",
-  "exports": "./prettier.config.cjs",
+  "exports": "./index.js",
   "repository": "github:exquz3me/prettier-config",
   "devDependencies": {
     "prettier": "^3.4.2"
@@ -21,5 +20,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "type": "module"
 }
