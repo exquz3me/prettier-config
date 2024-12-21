@@ -10,6 +10,7 @@
   "bugs": "https://github.com/exquz3me/prettier-config/",
   "license": "MIT",
   "author": "sphoon",
+  "type": "module",
   "exports": "./prettier.config.cjs",
   "repository": "github:exquz3me/prettier-config",
   "devDependencies": {

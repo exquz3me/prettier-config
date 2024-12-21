@@ -23,25 +23,26 @@
 
 ## Description
 
-Just a simple [Prettier](https://prettier.io/) configuration for personal use.
+Just a simple [Prettier](https://prettier.io/) configuration for personal use, which was made as a testament to having read the [Prettier documentation](https://prettier.io/docs/).
 
-This package was made as a testament to having read the Prettier documentation. Most of the properties were kept at their default values, except for some opinionated choices.
+All properties use their [default values](https://prettier.io/docs/en/options) as of prettier@3.4.2, except for the `arrowParens` property.
 
-```jsonc
-// .prettierrc
-{
-  "$schema": "http://json.schemastore.org/prettierrc",
-  "singleQuote": true,
-  "bracketSameLine": true,
-  "arrowParens": "avoid",
-  "editorconfig": true,
-}
+
+```javascript
+// index.js
+/** @type {import("prettier").Config} */
+const config = {
+  $schema: "http://json.schemastore.org/prettierrc",
+  arrowParens: "avoid",
+};
+
+export default config;
 ```
 
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/en/)
-- [NPM](https://www.npmjs.com/)
+- [npm](https://www.npmjs.com/)
 - [Prettier](https://prettier.io/)
 
 ## Install
@@ -58,8 +59,6 @@ npm install --save-dev @sphoon/prettier-config
   "prettier": "@sphoon/prettier-config" // Add this line
 }
 ```
-
-For more information see the [Prettier documentation](https://prettier.io/docs/en/sharing-configurations)
 
 <!-- ############################################# -->
 <!-- References -->
