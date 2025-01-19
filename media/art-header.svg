@@ -1,37 +1,41 @@
- 
-      <svg fill="none" viewBox="0 0 379 288" width="379" height="288" xmlns="http://www.w3.org/2000/svg">
-        <foreignObject width="100%" height="100%">
-          <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-              span {
-                font-family: "MS PGothic";
-                font-size: 12pt;
-                line-height: 1;
-                display: block;
-                color: #6c757d;
-                white-space: pre;
-              }
-            </style>
-    <span>　　　　　　　　　　　　　　 -――――-　　　 　 　 　 　 　 |</span>
-<span>　　　　　 　 　 　 　 　 ´. : : : : : :_: : : : : : ｀　、　　 　 　 　 |</span>
-<span>　　　　　 　 　 　 ／ : : : : : : :／: : : : : : : : : : ＼　　　　 　 |</span>
-<span>　　　　　　　　　 ′ |: : : : : :/: /: : :／: i､ : : : : : ヽ　 　 　 .|</span>
-<span>　　　　　　　　 / : : :|: : : : :/:.:/: ／: ｲ:.ハ: : :|: : : : :.　　　　|</span>
-<span> 　　　　　　 　 ′: : :| : :.:∨レ＜_｀レﾚ′ﾚ_i_| : : |: :i　　 　 |</span>
-<span>　　　　　　　　i / : : |: : : :| 7テ示｀ヽ　　x≠ﾐ:.: : i: :|.　　　｜</span>
-<span>　　　　　　　　{ハ: :八 : :.:ﾄ弋.)ｿ　　　　 {i圷}ﾚ'ﾊハ}.　　　｜</span>
-<span>　　　　　　　　　 ∨{　ﾊ: : N ｀¨　　　　 弋ｿ小|/　　　　　 .|</span>
-<span>　　　　　　　　　　{込、_ハ}　　　 　 _　｀　　 i: |　　　　　　 |</span>
-<span>　　　　　　　　 　 ヽハ: ::丶　　 　 　 ｀　 　 八}　　　　　　 |</span>
-<span>　　　　　　　　　 　 　 Vﾄ､:j　　、 　 　 . ＜ﾉ　　　　　　　 .」</span>
-<span>　　　　　　　　　　　　　 ／＼　　 f.￣　　　　　　　　　　〈、ヽ</span>
-<span>　　 　 　 　 　 　 , ヘ￣　　　 ＞爪ﾝ､　　　　　　　　　 〈、ヽ､)</span>
-<span>　　　　　　　　 , '　　 ｀ヾ,　　　 / | ヽ ヽ― ､＿＿　　 〈ヽニｿ</span>
-<span>　　 　 　 　 　 i　　　ヽ　 i｀＝く　.|　 ∨ヽ 　 　 　 ｀ヽ-(ニ,｢</span>
-<span>　　 　 　 　 　 |　　　　＼|::::::::::::￣￣::::::::∨　　　〃　く 　 |</span>
-<span> 　　　　　　　 ∧ 　 　 　 ∨/:::::::::::::::::::::::::::i 　 　 |′　 .〉　|</span>
+<svg fill="none" viewBox="0 0 379 288" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        span {
+          font-family: "MS PGothic";
+          font-size: 12pt;
+          line-height: 1;
+          display: block;
+          color: #F8F9FA;
+          white-space: pre;
+        }
 
-          </div>
-        </foreignObject>
-      </svg>
-    
+        @media (prefers-color-scheme: light) {
+          span {
+            color: #6C757D;
+          }
+        }
+      </style>
+
+      <span>　　　　　　　　　　　　　　 -――――-　　　 　 　 　 　 　 |</span>
+      <span>　　　　　 　 　 　 　 　 ´. : : : : : :_: : : : : : ｀　、　　 　 　 　 |</span>
+      <span>　　　　　 　 　 　 ／ : : : : : : :／: : : : : : : : : : ＼　　　　 　 |</span>
+      <span>　　　　　　　　　 ′ |: : : : : :/: /: : :／: i､ : : : : : ヽ　 　 　 .|</span>
+      <span>　　　　　　　　 / : : :|: : : : :/:.:/: ／: ｲ:.ハ: : :|: : : : :.　　　　|</span>
+      <span> 　　　　　　 　 ′: : :| : :.:∨レ＜_｀レﾚ′ﾚ_i_| : : |: :i　　 　 |</span>
+      <span>　　　　　　　　i / : : |: : : :| 7テ示｀ヽ　　x≠ﾐ:.: : i: :|.　　　｜</span>
+      <span>　　　　　　　　{ハ: :八 : :.:ﾄ弋.)ｿ　　　　 {i圷}ﾚ'ﾊハ}.　　　｜</span>
+      <span>　　　　　　　　　 ∨{　ﾊ: : N ｀¨　　　　 弋ｿ小|/　　　　　 .|</span>
+      <span>　　　　　　　　　　{込、_ハ}　　　 　 _　｀　　 i: |　　　　　　 |</span>
+      <span>　　　　　　　　 　 ヽハ: ::丶　　 　 　 ｀　 　 八}　　　　　　 |</span>
+      <span>　　　　　　　　　 　 　 Vﾄ､:j　　、 　 　 . ＜ﾉ　　　　　　　 .」</span>
+      <span>　　　　　　　　　　　　　 ／＼　　 f.￣　　　　　　　　　　〈、ヽ</span>
+      <span>　　 　 　 　 　 　 , ヘ￣　　　 ＞爪ﾝ､　　　　　　　　　 〈、ヽ､)</span>
+      <span>　　　　　　　　 , '　　 ｀ヾ,　　　 / | ヽ ヽ― ､＿＿　　 〈ヽニｿ</span>
+      <span>　　 　 　 　 　 i　　　ヽ　 i｀＝く　.|　 ∨ヽ 　 　 　 ｀ヽ-(ニ,｢</span>
+      <span>　　 　 　 　 　 |　　　　＼|::::::::::::￣￣::::::::∨　　　〃　く 　 |</span>
+      <span> 　　　　　　　 ∧ 　 　 　 ∨/:::::::::::::::::::::::::::i 　 　 |′　 .〉　|</span>
+    </div>
+  </foreignObject>
+</svg>
