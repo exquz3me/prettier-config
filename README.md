@@ -16,18 +16,13 @@
 <!-- Header -->
 
 <h1 align="center">
-  <img height=150 src="./media/art-header.svg" alt="header-art">
-  <img src="./media/header.svg" alt="header">
+  <img height="130" src="./media/art-header.svg" alt="header-art">
+  <img width="420" src="./media/header.svg" alt="header">
 </h1>
 
 <div align="center">
 
-[![Version][package-url]][version-url]
-[![License][license-shield]][license-url]
-[![Last Commit][commit-shield]][commit-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stars][stars-shield]][stars-url]
+[![Version][package-shield]][package-url]
 
 </div>
 
@@ -95,17 +90,3 @@ npm install --save-dev @sphoon/prettier-config --save-exact
 
 [package-shield]: https://img.shields.io/github/package-json/v/exquz3me/prettier-config
 [package-url]: https://www.npmjs.com/package/@sphoon/prettier-config
-
-
-[license-shield]: https://img.shields.io/github/license/user/repository?color=brightgreen
-[license-url]: https://github.com/user/repository/blob/main/LICENSE
-
-[commit-shield]: https://img.shields.io/github/last-commit/user/repository?color=blue
-[commit-url]: https://github.com/user/repository/commits/main
-
-[contributors-shield]: https://img.shields.io/github/contributors/user/repository?color=blue
-[contributors-url]: https://github.com/user/repository/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/user/repository?color=orange
-[forks-url]: https://github.com/user/repository/network/members
-[stars-shield]: https://img.shields.io/github/stars/user/repository?color=yellow
-[stars-url]: https://github.com/user/repository/stargazers
